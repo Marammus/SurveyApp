@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="_2">2</string>
+    <string name="unsynchronized_survey">Unsynchronized Survey</string>
+</resources>
